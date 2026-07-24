@@ -1,0 +1,16 @@
+# Docker
+db_data/
+
+# Composer
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Env/secrets (in case you add any later)
+.env
